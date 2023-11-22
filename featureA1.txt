@@ -1,3 +1,0 @@
-feature A1 
-
-I have fixed the bug
